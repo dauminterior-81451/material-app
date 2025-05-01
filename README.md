@@ -1,3 +1,3 @@
 # 다움 자재관리 시스템
 
-최종 배포 버전입니다. Vite + React 기반.
+Firebase 로그인 포함 React + Vite 앱
